@@ -1,0 +1,17 @@
+name: COMPRESSGER555658
+on:
+  workflow_dispatch:
+jobs:
+  pipe996258ar:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        mountREMOTE612439: [STACK75STUB945]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: COMPRESSious8777
+        run: |
+          java -jar NODEmeta266196.jar
