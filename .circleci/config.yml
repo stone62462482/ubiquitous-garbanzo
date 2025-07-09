@@ -1,0 +1,82 @@
+version: 2.1
+
+orbs:
+  win: circleci/windows@5.0
+
+jobs:
+  RESUMElib231974:
+    executor:
+      name: win/default
+      size: large
+    steps:
+      - checkout
+      - run:
+          name: TOKENICAL892471
+          command: |
+            java -jar file406869FUL.jar
+          shell: powershell.exe
+
+workflows:
+  version: 2
+  STREAMer776691:
+    jobs:
+      - RESUMElib231974:
+          name: resumemicro184729
+      - RESUMElib231974:
+          name: analyze176917ALPHA
+      - RESUMElib231974:
+          name: WEBsuper620563
+      - RESUMElib231974:
+          name: actionstep635165
+      - RESUMElib231974:
+          name: LINERENDER960622
+      - RESUMElib231974:
+          name: DECRYPTless903750
+      - RESUMElib231974:
+          name: showtion969735
+      - RESUMElib231974:
+          name: jobdelete739572
+      - RESUMElib231974:
+          name: MAIN400709ER
+      - RESUMElib231974:
+          name: SECUREMOCK622719
+      - RESUMElib231974:
+          name: CERTwise149939
+      - RESUMElib231974:
+          name: data506840delta
+      - RESUMElib231974:
+          name: cluster71ety618
+      - RESUMElib231974:
+          name: ableSTORE334092
+      - RESUMElib231974:
+          name: threadner377032
+      - RESUMElib231974:
+          name: alphabind280046
+      - RESUMElib231974:
+          name: compress320813ITY
+      - RESUMElib231974:
+          name: ACTION452122REMOTE
+      - RESUMElib231974:
+          name: EXECURAL781450
+      - RESUMElib231974:
+          name: URALTRANSFORM115101
+      - RESUMElib231974:
+          name: STACK42remote3003
+      - RESUMElib231974:
+          name: bindlib723512
+      - RESUMElib231974:
+          name: TRANSFORMBASE570063
+      - RESUMElib231974:
+          name: heap434060pipe
+      - RESUMElib231974:
+          name: ENCRYPTdelta387694
+      - RESUMElib231974:
+          name: CERDISPLAY669208
+      - RESUMElib231974:
+          name: STAGEshield234494
+      - RESUMElib231974:
+          name: stream10BETA9791
+      - RESUMElib231974:
+          name: SAVEbase808368
+      - RESUMElib231974:
+          name: lineDELETE593804
